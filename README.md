@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eormes
 - 👀 I’m interested in ... learning how to code
-- 🌱 I’m currently learning ... MATH310
+- 🌱 I’m currently learning ... VHDL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ... He/Him
