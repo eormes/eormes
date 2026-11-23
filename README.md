@@ -49,13 +49,12 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ## 📌 Featured Projects
-
+ 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Project One**](https://github.com/eormes/project-one) | One-line description of what it does | C, TECH |
-| [**Project Two**](https://github.com/eormes/project-two) | One-line description of what it does | Arduino, I2C sensors |
-| [**Project Three**](https://github.com/eormes/project-three) | One-line description of what it does | VHDL, Vivado |
-
+| [**FPGA Oscilloscope (ADD Lab 4)**](https://github.com/eharb04/ADDLab4) | Acquires an analog signal and displays it over HDMI, split into a datapath and a control FSM. **My contribution:** designed most of the datapath. Built with a lab partner. | VHDL, Vivado, FPGA |
+| [**Bench Power Supply & VU Meter**](https://github.com/eormes/vu-meter-power-supply) | KiCad PCB combining an adjustable linear power supply (voltage and current limits) with an 8-LED VU meter | KiCad |
+ | [**Enigma Machine**](https://github.com/eormes/EnigmaMachine) | C++ simulation of the Enigma cipher machine with configurable rotors, plugboard, and reflector, encoding and decoding messages from files | C++, Make |
 ---
 
 <p align="center">
